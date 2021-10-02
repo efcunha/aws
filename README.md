@@ -20,10 +20,7 @@ O que iremos fazer?
 9. Configuração do ELB
 10. Configuração do Route 53
 
-
-Parabéns, com isso temos a primera parte da nossa infraestrutura. 
-Estamos prontos para rodar nossa aplicação.
-
+# Estamos prontos para rodar nossa aplicação.
 
 # Parte 1
 
@@ -55,9 +52,8 @@ Acessar o Rancher e configurar
 https://3.134.108.244
 
 ## 4 - Configuração do Cluster Kubernetes.
+
 Criar o cluster pelo Rancher e configurar.
-
-
 
 ## 5 - Deployment do cluster pela aws-cli
 
@@ -76,7 +72,6 @@ $ aws ec2 run-instances --image-id ami-01e7ca2ef94a0ae86 --count 3 --instance-ty
 Instalar o kubectl 
 
 https://kubernetes.io/docs/tasks/tools/
-
 
 # Parte 2
 
