@@ -2,6 +2,8 @@
 
 O que iremos fazer?
 
+![single-deployment](https://user-images.githubusercontent.com/52961166/135733356-af69d804-6d47-48f2-9154-be62f842fa78.png)
+
 ## Parte 1
 1. Criação de usuário do IAM e permissões
 2. Criação da instância do RancherServer pela aws-cli
