@@ -44,7 +44,7 @@ $ aws ec2 run-instances --image-id ami-01e7ca2ef94a0ae86 --count 1 --instance-ty
 ## 3 - Configuração do Rancher
 Acessar o Rancher e configurar
 
-https://3.134.108.244
+https://rancher.dominio.com.br
 
 ## 4 - Configuração do Cluster Kubernetes.
 
